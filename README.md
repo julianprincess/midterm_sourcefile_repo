@@ -10,4 +10,27 @@ This repository contains my JavaScript source files for the midterm activity.
 
 ## Purpose
 
-This repository is used to organize and practice managing JavaScript source files using Git and GitHub.
+This repository is used to organize and practice managing JavaScript source files using Git and GitHub.git status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Branch practice: testing Git branch and merge commands.
