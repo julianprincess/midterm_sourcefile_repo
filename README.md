@@ -52,3 +52,30 @@ Branch practice: testing Git branch and merge commands.
 ## Git Commands Practiced
 
 During this activity, I practiced initializing a repository, checking its status, staging and committing files, connecting to GitHub, pushing and pulling changes, cloning a repository, and creating, switching, and merging branches.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Midterm Submission
+
+This repository contains my JavaScript source files and demonstrates my practice using Git and GitHub for version control.
